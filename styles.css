@@ -10,8 +10,8 @@
         margin: 0;
 }
 
-body{
-
+.Hook-line{
+        width: 100%;
 }
 
 nav > div > img{
@@ -24,10 +24,6 @@ nav > div > a{
         font-size: larger;
 }
 
-.top_right{
-position: absolute right;
-}
-
 h2{
         justify-content: center;
 }
@@ -36,10 +32,7 @@ h2{
         padding-top: 25px;
         justify-content: center;
 }
+
 .card-deck{
         padding-top: 25px;
-}
-
-.Aloe{
-        size: 250px;
 }
